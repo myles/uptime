@@ -3,6 +3,8 @@ owner: myles
 repo: uptime
 
 sites:
+  - name: mylesb.ca
+    url: https://mylesb.ca
   - name: myles.social
     url: https://myles.social
 
