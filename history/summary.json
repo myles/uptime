@@ -4,18 +4,20 @@
     "url": "https://mylesb.ca",
     "icon": "https://icons.duckduckgo.com/ip3/mylesb.ca.ico",
     "slug": "mylesb-ca",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 91,
     "timeDay": 91,
     "timeWeek": 91,
     "timeMonth": 91,
     "timeYear": 91,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-28": 0
+    }
   },
   {
     "name": "myles.social",
