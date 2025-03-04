@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mylesb.ca.ico",
     "slug": "mylesb-ca",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
     "time": 101,
     "timeDay": 101,
     "timeWeek": 101,
@@ -24,7 +24,7 @@
     "url": "https://myles.social",
     "icon": "https://icons.duckduckgo.com/ip3/myles.social.ico",
     "slug": "myles-social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 358,
     "timeMonth": 358,
     "timeYear": 358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-04": 0
+    }
   },
   {
     "name": "myles.wiki",
