@@ -13,6 +13,6 @@ assignees:
   - myles
 
 status-website:
-  baseUrl: /uptime
+  cname: status.mylesbraithwaite.net
   name: Myles' Uptime
   introTitle: "Myles Braithwaite's uptime monitor and status page."
