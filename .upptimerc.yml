@@ -8,6 +8,8 @@ sites:
     url: https://myles.social
   - name: myles.wiki
     url: https://myles.wiki
+  - name: mylesbraithwaite.com
+    url: https://mylesbraithwaite.com
 
 assignees:
   - myles
