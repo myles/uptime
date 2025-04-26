@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 196,
-    "timeDay": 130,
-    "timeWeek": 148,
-    "timeMonth": 155,
+    "timeDay": 155,
+    "timeWeek": 142,
+    "timeMonth": 156,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2025-03-11": 16,
@@ -31,12 +31,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 454,
-    "timeDay": 296,
-    "timeWeek": 431,
-    "timeMonth": 512,
-    "timeYear": 454,
-    "dailyMinutesDown": {}
+    "time": 458,
+    "timeDay": 751,
+    "timeWeek": 494,
+    "timeMonth": 518,
+    "timeYear": 458,
+    "dailyMinutesDown": {
+      "2025-04-26": 0
+    }
   },
   {
     "name": "myles.wiki",
@@ -49,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 349,
-    "timeWeek": 265,
-    "timeMonth": 434,
-    "timeYear": 357,
+    "time": 356,
+    "timeDay": 283,
+    "timeWeek": 269,
+    "timeMonth": 436,
+    "timeYear": 356,
     "dailyMinutesDown": {}
   },
   {
@@ -68,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 527,
-    "timeWeek": 349,
-    "timeMonth": 289,
+    "timeDay": 302,
+    "timeWeek": 347,
+    "timeMonth": 292,
     "timeYear": 293,
     "dailyMinutesDown": {}
   }
