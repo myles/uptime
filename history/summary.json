@@ -25,9 +25,9 @@
     "url": "https://myles.social",
     "icon": "https://icons.duckduckgo.com/ip3/myles.social.ico",
     "slug": "myles-social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 495,
     "timeMonth": 518,
     "timeYear": 459,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-27": 0
+    }
   },
   {
     "name": "myles.wiki",
