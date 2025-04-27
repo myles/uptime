@@ -26,19 +26,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/myles.social.ico",
     "slug": "myles-social",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 459,
     "timeDay": 628,
     "timeWeek": 495,
     "timeMonth": 518,
     "timeYear": 459,
-    "dailyMinutesDown": {
-      "2025-04-26": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "myles.wiki",
