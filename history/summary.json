@@ -25,20 +25,20 @@
     "url": "https://myles.social",
     "icon": "https://icons.duckduckgo.com/ip3/myles.social.ico",
     "slug": "myles-social",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "83.29%",
-    "uptimeWeek": "97.61%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.72%",
-    "time": 450,
-    "timeDay": 252,
-    "timeWeek": 417,
-    "timeMonth": 502,
-    "timeYear": 450,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "80.70%",
+    "uptimeWeek": "96.50%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.59%",
+    "time": 449,
+    "timeDay": 280,
+    "timeWeek": 412,
+    "timeMonth": 498,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2025-04-27": 204,
-      "2025-04-28": 37
+      "2025-04-28": 150
     }
   },
   {
