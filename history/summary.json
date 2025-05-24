@@ -25,10 +25,10 @@
     "url": "https://myles.social",
     "icon": "https://icons.duckduckgo.com/ip3/myles.social.ico",
     "slug": "myles-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.64%",
     "time": 452,
@@ -37,6 +37,7 @@
     "timeMonth": 439,
     "timeYear": 452,
     "dailyMinutesDown": {
+      "2025-05-24": 1,
       "2025-05-02": 44,
       "2025-04-28": 195,
       "2025-04-27": 204
@@ -65,7 +66,7 @@
     "url": "https://mylesbraithwaite.com",
     "icon": "https://icons.duckduckgo.com/ip3/mylesbraithwaite.com.ico",
     "slug": "mylesbraithwaite-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -77,6 +78,7 @@
     "timeMonth": 452,
     "timeYear": 360,
     "dailyMinutesDown": {
+      "2025-05-24": 0,
       "2025-05-01": 33
     }
   }
