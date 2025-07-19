@@ -6,17 +6,16 @@
     "slug": "mylesb-ca",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 167,
-    "timeDay": 129,
+    "timeDay": 119,
     "timeWeek": 128,
     "timeMonth": 134,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-07-18": 5,
       "2025-03-11": 16,
       "2025-02-28": 40
     }
@@ -33,7 +32,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 432,
-    "timeDay": 315,
+    "timeDay": 342,
     "timeWeek": 365,
     "timeMonth": 409,
     "timeYear": 432,
@@ -50,18 +49,16 @@
     "slug": "myles-wiki",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 326,
-    "timeDay": 145,
+    "timeDay": 89,
     "timeWeek": 220,
     "timeMonth": 310,
     "timeYear": 326,
-    "dailyMinutesDown": {
-      "2025-07-18": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mylesbraithwaite.com",
@@ -75,7 +72,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 319,
-    "timeDay": 284,
+    "timeDay": 311,
     "timeWeek": 261,
     "timeMonth": 275,
     "timeYear": 319,
