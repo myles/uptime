@@ -6,17 +6,16 @@
     "slug": "mylesb-ca",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 166,
-    "timeDay": 136,
+    "timeDay": 145,
     "timeWeek": 122,
     "timeMonth": 133,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-07-20": 8,
       "2025-03-11": 16,
       "2025-02-28": 40
     }
@@ -33,7 +32,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 431,
-    "timeDay": 372,
+    "timeDay": 306,
     "timeWeek": 365,
     "timeMonth": 410,
     "timeYear": 431,
@@ -50,18 +49,16 @@
     "slug": "myles-wiki",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 327,
-    "timeDay": 437,
+    "timeDay": 585,
     "timeWeek": 292,
     "timeMonth": 311,
     "timeYear": 327,
-    "dailyMinutesDown": {
-      "2025-07-20": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mylesbraithwaite.com",
@@ -75,7 +72,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 318,
-    "timeDay": 255,
+    "timeDay": 273,
     "timeWeek": 267,
     "timeMonth": 275,
     "timeYear": 318,
@@ -95,18 +92,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/trex.studio.ico",
     "slug": "trex-studio",
     "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 372,
-    "timeDay": 372,
+    "timeDay": 290,
     "timeWeek": 372,
     "timeMonth": 372,
     "timeYear": 372,
-    "dailyMinutesDown": {
-      "2025-07-20": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
