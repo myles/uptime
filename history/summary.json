@@ -11,11 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 166,
-    "timeDay": 145,
-    "timeWeek": 122,
-    "timeMonth": 133,
+    "timeDay": 194,
+    "timeWeek": 127,
+    "timeMonth": 135,
     "timeYear": 166,
     "dailyMinutesDown": {
+      "2025-07-21": 0,
       "2025-03-11": 16,
       "2025-02-28": 40
     }
@@ -31,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 431,
-    "timeDay": 306,
-    "timeWeek": 365,
-    "timeMonth": 410,
-    "timeYear": 431,
+    "time": 429,
+    "timeDay": 148,
+    "timeWeek": 339,
+    "timeMonth": 401,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2025-05-02": 44,
       "2025-04-28": 195,
@@ -47,18 +48,20 @@
     "url": "https://myles.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/myles.wiki.ico",
     "slug": "myles-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 327,
-    "timeDay": 585,
-    "timeWeek": 292,
-    "timeMonth": 311,
+    "timeDay": 290,
+    "timeWeek": 266,
+    "timeMonth": 310,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-21": 0
+    }
   },
   {
     "name": "mylesbraithwaite.com",
@@ -72,8 +75,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 318,
-    "timeDay": 273,
-    "timeWeek": 267,
+    "timeDay": 259,
+    "timeWeek": 266,
     "timeMonth": 275,
     "timeYear": 318,
     "dailyMinutesDown": {
@@ -91,17 +94,19 @@
     "url": "https://trex.studio",
     "icon": "https://icons.duckduckgo.com/ip3/trex.studio.ico",
     "slug": "trex-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 290,
-    "timeWeek": 372,
-    "timeMonth": 372,
-    "timeYear": 372,
-    "dailyMinutesDown": {}
+    "time": 300,
+    "timeDay": 157,
+    "timeWeek": 300,
+    "timeMonth": 300,
+    "timeYear": 300,
+    "dailyMinutesDown": {
+      "2025-07-21": 0
+    }
   }
 ]
