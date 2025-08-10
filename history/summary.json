@@ -4,11 +4,11 @@
     "url": "https://mylesb.ca",
     "icon": "https://icons.duckduckgo.com/ip3/mylesb.ca.ico",
     "slug": "mylesb-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 161,
     "timeDay": 152,
@@ -16,6 +16,7 @@
     "timeMonth": 129,
     "timeYear": 161,
     "dailyMinutesDown": {
+      "2025-08-10": 0,
       "2025-07-21": 15,
       "2025-03-11": 16,
       "2025-02-28": 40
@@ -48,11 +49,11 @@
     "url": "https://myles.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/myles.wiki.ico",
     "slug": "myles-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 316,
     "timeDay": 119,
@@ -60,6 +61,7 @@
     "timeMonth": 250,
     "timeYear": 316,
     "dailyMinutesDown": {
+      "2025-08-10": 0,
       "2025-07-21": 15
     }
   },
@@ -94,7 +96,7 @@
     "url": "https://trex.studio",
     "icon": "https://icons.duckduckgo.com/ip3/trex.studio.ico",
     "slug": "trex-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -106,6 +108,7 @@
     "timeMonth": 295,
     "timeYear": 295,
     "dailyMinutesDown": {
+      "2025-08-10": 0,
       "2025-07-21": 15
     }
   }
