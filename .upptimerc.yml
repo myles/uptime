@@ -2,16 +2,22 @@ owner: myles
 repo: uptime
 
 sites:
+  - name: myles.garden
+    url: https://myles.garden
   - name: mylesb.ca
     url: https://mylesb.ca
   - name: myles.social
     url: https://myles.social
+  - name: fr.myles.social
+    url: https://fr.myles.social
   - name: myles.wiki
     url: https://myles.wiki
   - name: mylesbraithwaite.com
     url: https://mylesbraithwaite.com
   - name: trex.studio
     url: https://trex.studio
+  - name: trex.house
+    url: https://trex.house
 
 assignees:
   - myles
