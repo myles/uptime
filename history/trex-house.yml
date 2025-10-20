@@ -1,7 +1,7 @@
 url: https://trex.house
-status: up
-code: 200
-responseTime: 457
-lastUpdated: 2025-10-19T23:04:12.705Z
+status: down
+code: 500
+responseTime: 3317
+lastUpdated: 2025-10-20T07:01:41.337Z
 startTime: 2025-08-12T13:00:09.429Z
 generator: Upptime <https://github.com/upptime/upptime>
