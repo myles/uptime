@@ -70,10 +70,10 @@
     "url": "https://myles.social",
     "icon": "https://icons.duckduckgo.com/ip3/myles.social.ico",
     "slug": "myles-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 401,
@@ -82,6 +82,7 @@
     "timeMonth": 419,
     "timeYear": 401,
     "dailyMinutesDown": {
+      "2025-12-07": 1,
       "2025-05-02": 44,
       "2025-04-28": 195,
       "2025-04-27": 204
@@ -92,9 +93,9 @@
     "url": "https://fr.myles.social",
     "icon": "https://icons.duckduckgo.com/ip3/fr.myles.social.ico",
     "slug": "fr-myles-social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -103,7 +104,9 @@
     "timeWeek": 426,
     "timeMonth": 432,
     "timeYear": 427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-07": 0
+    }
   },
   {
     "name": "myles.wiki",
@@ -151,7 +154,7 @@
     "uptimeYear": "99.92%",
     "time": 318,
     "timeDay": 290,
-    "timeWeek": 270,
+    "timeWeek": 280,
     "timeMonth": 392,
     "timeYear": 318,
     "dailyMinutesDown": {
