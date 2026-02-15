@@ -72,9 +72,9 @@
     "url": "https://myles.social",
     "icon": "https://icons.duckduckgo.com/ip3/myles.social.ico",
     "slug": "myles-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "87.22%",
+    "uptimeDay": "87.18%",
     "uptimeWeek": "98.17%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.85%",
@@ -84,7 +84,7 @@
     "timeMonth": 295,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2026-02-15": 183,
+      "2026-02-15": 184,
       "2025-12-24": 80,
       "2025-12-07": 64,
       "2025-05-02": 44,
@@ -99,9 +99,9 @@
     "slug": "fr-myles-social",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "85.75%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "84.96%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.88%",
     "time": 418,
     "timeDay": 172,
@@ -109,7 +109,7 @@
     "timeMonth": 377,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2026-02-15": 205,
+      "2026-02-15": 217,
       "2025-12-24": 79,
       "2025-12-07": 38
     }
