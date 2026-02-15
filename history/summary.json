@@ -97,9 +97,9 @@
     "url": "https://fr.myles.social",
     "icon": "https://icons.duckduckgo.com/ip3/fr.myles.social.ico",
     "slug": "fr-myles-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -109,6 +109,7 @@
     "timeMonth": 427,
     "timeYear": 427,
     "dailyMinutesDown": {
+      "2026-02-15": 0,
       "2025-12-24": 79,
       "2025-12-07": 38
     }
