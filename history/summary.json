@@ -48,11 +48,11 @@
     "url": "https://myles.social",
     "icon": "https://icons.duckduckgo.com/ip3/myles.social.ico",
     "slug": "myles-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "93.75%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "93.44%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.88%",
     "time": 367,
     "timeDay": 1883,
@@ -68,7 +68,7 @@
       "2026-09-20": 22,
       "2026-10-05": 37,
       "2026-11-16": 20,
-      "2026-11-26": 90
+      "2026-11-26": 94
     }
   },
   {
