@@ -48,11 +48,11 @@
     "url": "https://myles.social",
     "icon": "https://icons.duckduckgo.com/ip3/myles.social.ico",
     "slug": "myles-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "97.59%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.89%",
     "time": 359,
     "timeDay": 330,
@@ -68,7 +68,7 @@
       "2026-09-20": 22,
       "2026-10-05": 37,
       "2026-11-16": 20,
-      "2026-11-26": 35
+      "2026-11-26": 40
     }
   },
   {
@@ -76,9 +76,9 @@
     "url": "https://fr.myles.social",
     "icon": "https://icons.duckduckgo.com/ip3/fr.myles.social.ico",
     "slug": "fr-myles-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "97.92%",
+    "uptimeDay": "97.90%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.92%",
